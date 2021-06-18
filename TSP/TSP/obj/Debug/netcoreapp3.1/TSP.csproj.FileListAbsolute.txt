@@ -1,0 +1,13 @@
+F:\EWA\GitHub\TSP\TSP\bin\Debug\netcoreapp3.1\TSP.exe
+F:\EWA\GitHub\TSP\TSP\bin\Debug\netcoreapp3.1\TSP.deps.json
+F:\EWA\GitHub\TSP\TSP\bin\Debug\netcoreapp3.1\TSP.runtimeconfig.json
+F:\EWA\GitHub\TSP\TSP\bin\Debug\netcoreapp3.1\TSP.runtimeconfig.dev.json
+F:\EWA\GitHub\TSP\TSP\bin\Debug\netcoreapp3.1\TSP.dll
+F:\EWA\GitHub\TSP\TSP\bin\Debug\netcoreapp3.1\TSP.pdb
+F:\EWA\GitHub\TSP\TSP\obj\Debug\netcoreapp3.1\TSP.csprojAssemblyReference.cache
+F:\EWA\GitHub\TSP\TSP\obj\Debug\netcoreapp3.1\TSP.AssemblyInfoInputs.cache
+F:\EWA\GitHub\TSP\TSP\obj\Debug\netcoreapp3.1\TSP.AssemblyInfo.cs
+F:\EWA\GitHub\TSP\TSP\obj\Debug\netcoreapp3.1\TSP.csproj.CoreCompileInputs.cache
+F:\EWA\GitHub\TSP\TSP\obj\Debug\netcoreapp3.1\TSP.dll
+F:\EWA\GitHub\TSP\TSP\obj\Debug\netcoreapp3.1\TSP.pdb
+F:\EWA\GitHub\TSP\TSP\obj\Debug\netcoreapp3.1\TSP.genruntimeconfig.cache
